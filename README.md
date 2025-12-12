@@ -11,7 +11,7 @@ Ce projet est réalisé suite à une formation de monsieur Baraa sur la chaîne 
 
 ## 🏗️ **Architecture des Données**
 
-![Data_Architecture](https://github.com/bey-adlane/sql_data_warehouse_procejt/blob/5c308716f005d9f7d7a0a7c2cbcb631a5e3f48b6/docs/High%20Level%20Architecture.drawio.png)
+
 
 L'architecture suit le modèle **Medallion Architecture** avec trois couches :
 
