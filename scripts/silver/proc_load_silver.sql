@@ -165,6 +165,7 @@ BEGIN
 		CASE 
 			WHEN sls_sales IS NULL OR sls_sales <= 0 OR sls_sales != sls_quantity * ABS(sls_price)
 			THEN sls_quantity * ABS(sls_price)
+			ELSE sls_sales
 		END sls_sales,
 		
 
