@@ -4,10 +4,6 @@ Bienvenue dans le dépôt du projet d'Entrepôt de Données et d'Analyse ! Ce pr
 
 ---
 
-Ce projet est réalisé suite à une formation de monsieur Baraa sur la chaîne Youtube : 
-[Formation Data WareHouse (Youtube)](https://www.youtube.com/watch?v=SSKVgrwhzus&t=90309s)
-
----
 
 ## 🏗️ **Architecture des Données**
 
